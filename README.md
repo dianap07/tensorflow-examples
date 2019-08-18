@@ -1,5 +1,7 @@
 # Neural Networks in a Nutshell
 
+## Be careful not easy to understand.
+
 ## Installation Notes
 This tutorial requires *tensorflow*, *keras* and *IPython* with the IPython Notebook. These can be installed with *pip* by typing the following in Terminal:
 
